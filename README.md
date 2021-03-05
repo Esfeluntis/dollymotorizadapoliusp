@@ -1,4 +1,4 @@
-# dollymotorizadapoliusp
+# Dolly Motorizada
 Projeto desenvolvido para a disciplina PCS3100 - Introdução à Engenharia de Computação 
 
 Dolly Motorizada
